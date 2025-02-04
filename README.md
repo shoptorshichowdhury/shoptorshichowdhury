@@ -5,12 +5,10 @@
 ###
 
 <h2 align="center">Hi, there 👋... I'm Shoptorshi Chowdhury!</h2>
-
-###
-
 <h4 align="center">👩🏻‍💻Web Developer</h4>
 
 ###
+---
 
 <h3 align="left">🙋🏻‍♀️About Me</h3>
 
@@ -19,6 +17,8 @@
 <p align="left">I'm a passionate web developer with experience in building responsive and dynamic web applications. I specialize in frontend and backend technologies, including HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, Express, MongoDB, and Firebase. I love bringing ideas to life on the web and continuously learning new technologies.</p>
 
 ###
+
+---
 
 <h3 align="left">🧩Current Activities</h3>
 
@@ -29,6 +29,8 @@
 - Actively improving backend skills using **Node.js**, **Express**, and **MongoDB**
 
 ###
+
+---
 
 <h3 align="left">⚙️Skills I have</h3>
 
@@ -66,6 +68,8 @@
 
 ###
 
+---
+
 <h3 align="left">🛠️Tools I Use</h3>
 
 ###
@@ -81,6 +85,8 @@
 </div>
 
 ###
+
+---
 
 <h3 align="left">🔗Connect With Me</h3>
 
