@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
 </div>
 
 ###
