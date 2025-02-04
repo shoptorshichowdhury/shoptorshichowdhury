@@ -106,4 +106,17 @@
 
 ###
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=shoptorshichowdhury)](https://git.io/streak-stats)
+---
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=shoptorshichowdhury&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoptorshichowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+
