@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/C3jyq4fx/github-Background.png"  />
+  <img height="300" src="https://i.ibb.co.com/jKJNr70/Add-a-heading-1.jpg"  />
 </div>
 
 ###
 
 <h2 align="center">Hi, there 👋... I'm Shoptorshi Chowdhury!</h2>
-<h4 align="center">👩🏻‍💻Web Developer</h4>
+<h4 align="center">👩🏻‍💻Mern Stack Developer</h4>
 
 ###
 ---
@@ -41,16 +41,16 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -60,11 +60,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
 ###
